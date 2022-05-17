@@ -1,18 +1,19 @@
 
 * {
     margin: 0;
-    padding: 0;
+    padding: 100;
     box-sizing: border-box;
   }
   h1 {
     display: inline-block;
   }
   div {
-    background-color: rgb(132, 132, 174);
-    width: 800;
-    height: 400;
+    background-color: rgb(23, 23, 170);
+    color: aliceblue;
+    padding: 5px;
+    text-align: left;
 
-    border: 20px solid black;
+    border: 5px solid blu;
     padding: 40;
     margin: 5;
 }
