@@ -23,3 +23,10 @@
     background-color: rgb(30, 30, 79);
 
 }
+div {background-color: rgba(124, 39, 39, 0.248);
+    color: blue;
+    border: 0px;
+    width: 1000px;
+    height: 400px;
+
+}
