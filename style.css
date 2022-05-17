@@ -1,4 +1,19 @@
-h1 {
-    background-color: rgb(16, 16, 122);
-width: 200;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  h1 {
+    display: inline-block;
+  }
+  div {
+    background-color: rgb(132, 132, 174);
+    width: 800;
+    height: 400;
+
+    border: 20px solid black;
+    padding: 40;
+    margin: 5;
 }
+
